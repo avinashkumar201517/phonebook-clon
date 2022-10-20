@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0PX;
+}
+div{
+    background-color: aquamarine;
+    text-align: center;
+    position: sticky;
+    margin: 10px;
+    top: 10px;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    padding: 10px;
+}
